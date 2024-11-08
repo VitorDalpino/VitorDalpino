@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vitor Dalpino
+## Olá! Eu sou o Vitor Dalpino!
 
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no email: vitordalpino7@gmail.com
