@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vitor Dalpino!
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Java
 - 📫 Contate-me no email: vitordalpino7@gmail.com
 
 <div> 
